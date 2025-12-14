@@ -42,8 +42,8 @@ Working with LLMs in real projects quickly becomes messy:
 
 **Prompt & Experiment Tracker** turns prompt hacking into a structured workflow:
 
-git clone https://github.com/yourusername/prompt_experiment_tracker.git
-cd prompt_experiment_tracker
+git clone https://github.com/yourusername/prompt-experiment-tracker.git
+cd prompt-experiment-tracker
 
 
 2. **Create and activate a virtual environment (optional)**
