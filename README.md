@@ -165,12 +165,6 @@ Ideas:
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License** – see the `LICENSE` file for details.
-
----
-
 <div align="center">
 
 **Built with ❤️ for the AI community — so great prompts never get lost again.**
